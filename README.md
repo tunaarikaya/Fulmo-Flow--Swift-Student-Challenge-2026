@@ -1,7 +1,7 @@
 <div align="center">
 
 # PulmoFlow 🫁
-**Apple Swift Student Challenge 2026 Distinguished Submission**
+**Apple Swift Student Challenge 2026 Submission**
 
 A privacy-first, on-device respiratory therapy and health tracking application optimized natively for iPadOS. Engineered to eliminate physical breathing tubes through real-time acoustic analysis.
 
