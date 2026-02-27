@@ -70,6 +70,6 @@ Developed by **Mehmet Tuna Arıkaya**
 
 - [LinkedIn](https://www.linkedin.com/in/mehmet-tuna-ar%C4%B1kaya-9241b9248/)
 - [X (Twitter)](https://x.com/tunaarikaya)
-- [Medium](https://medium.com/@tunaarikaya)
+- [Medium](https://medium.com/@m.tunaarikaya)
 
 *This application is completely open-sourced to aid aspiring iOS developers to learn how to manipulate audio buffers, build modular SwiftUI architectures, and prepare world-class Swift Student Challenge entries.*
