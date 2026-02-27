@@ -63,7 +63,7 @@ Since this is an **App Playground (`.swiftpm`)**, the easiest way to explore the
 3. Open in **Swift Playgrounds 4.4+** (iPad) or **Xcode 15/16** (Mac).
 4. Run the application. Ensure microphone permissions are accepted for the full breathing interaction.
 
-## 👨‍💻 Developer
+## 👨‍💻 Developer 
 
 Developed by **Mehmet Tuna Arıkaya**  
 *(Computer Engineering Student & Open-Source Contributor)*
